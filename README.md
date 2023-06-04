@@ -1,5 +1,5 @@
 # AndroidCourseDay3
-Day 3 of My Android Course.
+Day-3 of Android Course:- How to use TextView, ScrollView and ImageView.
 <hr><hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
